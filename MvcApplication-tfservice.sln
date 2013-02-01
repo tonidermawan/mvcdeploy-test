@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication-tfservice", "MvcApplication-tfservice\MvcApplication-tfservice.csproj", "{23481955-CB35-4FCB-B6DA-1AB548586A3D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvcApplication-tfservice.Tests", "MvcApplication-tfservice.Tests\MvcApplication-tfservice.Tests.csproj", "{D7AD8F34-85C6-47D1-A8EC-AF4D30FA1A74}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = https://toni.visualstudio.com/defaultcollection
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = MvcApplication-tfservice.Tests\\MvcApplication-tfservice.Tests.csproj
+		SccProjectName1 = MvcApplication-tfservice.Tests
+		SccLocalPath1 = MvcApplication-tfservice.Tests
+		SccProjectUniqueName2 = MvcApplication-tfservice\\MvcApplication-tfservice.csproj
+		SccProjectName2 = MvcApplication-tfservice
+		SccLocalPath2 = MvcApplication-tfservice
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{23481955-CB35-4FCB-B6DA-1AB548586A3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23481955-CB35-4FCB-B6DA-1AB548586A3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23481955-CB35-4FCB-B6DA-1AB548586A3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23481955-CB35-4FCB-B6DA-1AB548586A3D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7AD8F34-85C6-47D1-A8EC-AF4D30FA1A74}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7AD8F34-85C6-47D1-A8EC-AF4D30FA1A74}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7AD8F34-85C6-47D1-A8EC-AF4D30FA1A74}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7AD8F34-85C6-47D1-A8EC-AF4D30FA1A74}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
